@@ -13,6 +13,6 @@ This repository contains a data analysis project that explores highest ranked ch
 ## Access
 
 📍 Jupyter Notebook: [Link](https://github.com/MantasTech/Chess-Players/blob/main/chess_players_project.ipynb)  
-📊 Tableau Dashboard: [Link](https://public.tableau.com/app/profile/mantas.siukstas/viz/chess_17027630680570/Dashboard1)
+📊 Tableau Dashboard: [Link](https://public.tableau.com/app/profile/mantastech/viz/chess_17027630680570/Dashboard1)
 
 ![](https://github.com/MantasTech/Chess-Players/blob/main/image/dashboard.png)
